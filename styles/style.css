@@ -9,7 +9,8 @@ html {
 }
 
 .page {
-  margin: 136px 30px 30px 133px;
+  margin: auto;
+  margin-top: 133px;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
@@ -56,7 +57,6 @@ ol {
   grid-template-columns: 711px 399px;
   grid-template-areas: "result details";
   place-items: flex-end;
-  margin:  0px 30px;
   width: 100%;
   gap: 30px;
   inline-size: 1140px;
