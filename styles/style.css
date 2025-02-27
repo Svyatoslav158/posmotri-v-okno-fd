@@ -183,9 +183,9 @@ ol {
 .button {
   background-color: transparent;
   border: 1px solid white;
-  color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
+  color: #fff;
   cursor: pointer;
   width: 100%;
 }
